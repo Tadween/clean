@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clean-sigma-ten.vercel.app/sitemap.xml
